@@ -12,3 +12,13 @@ A modern web application for converting PDF files with user authentication, subs
 - **Secure**: JWT authentication and file validation
 - **Responsive**: Works on all devices
 
+## 🛠️ Tech Stack
+
+- **Frontend**: React, Tailwind CSS, Context API
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Authentication**: JWT, bcrypt
+- **File Processing**: pdf-lib
+- **Email**: Nodemailer
+- **Storage**: Local storage with option for AWS S3
+
